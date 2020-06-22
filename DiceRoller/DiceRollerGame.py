@@ -26,8 +26,7 @@ add if player 1 == player 2: print("Draw") . Or elif player1 > player2: print("p
 else print("player 2 wins"). "Rounds = rounds + 1" whoever wins gets a point added to their score.
 
 
-
-
+"""
 
 
 
